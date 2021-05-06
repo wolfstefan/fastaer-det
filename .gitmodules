@@ -1,0 +1,7 @@
+[submodule "onnx-tensorrt/third_party/onnx"]
+	path = onnx-tensorrt/third_party/onnx
+	url = https://github.com/onnx/onnx.git
+	branch = rel-1.5.0
+[submodule "onnx-tensorrt/third_party/cub"]
+	path = onnx-tensorrt/third_party/cub
+	url = https://github.com/NVlabs/cub.git
