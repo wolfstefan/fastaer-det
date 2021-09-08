@@ -3,7 +3,21 @@
 FastAER Det is a object detector optimized for detecting objects in aerial images on a Nvidia Jetson AGX running in real-time. This repository contains the code for training and testing the models aswell as links to the models itself.
 
 Cite:
-Added soon
+```
+@article{Wolf_2021,
+  title={FastAER Det: Fast Aerial Embedded Real-Time Detection},
+  volume={13},
+  ISSN={2072-4292},
+  url={http://dx.doi.org/10.3390/rs13163088},
+  DOI={10.3390/rs13163088},
+  number={16},
+  journal={Remote Sensing},
+  publisher={MDPI AG},
+  author={Wolf, Stefan and Sommer, Lars and Schumann, Arne},
+  year={2021},
+  month={Aug},
+  pages={3088}}
+```
 
 The code is based on the following repositories:
 - MMDetection for the detection framework
